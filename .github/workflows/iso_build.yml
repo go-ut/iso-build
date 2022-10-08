@@ -34,7 +34,7 @@ jobs:
         EDITION: [xfce]
         BRANCH: [stable]
         SCOPE: [full]
-        ISO: [https://github.com/go-ut/iso-profiles]
+        ISO: 'https://github.com/go-ut/iso-profiles'
         #SCOPE: [minimal,full]
     steps:
       - 
