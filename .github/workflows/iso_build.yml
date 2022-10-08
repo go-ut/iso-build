@@ -26,7 +26,8 @@ jobs:
       matrix:
         EDITION: [xfce]
         BRANCH: [stable]
-        SCOPE: [minimal]
+        SCOPE: [full]
+        ISO: [https://github.com/go-ut/iso-profiles]
         #SCOPE: [minimal,full]
     steps:
       - 
@@ -46,6 +47,7 @@ jobs:
           branch: ${{ matrix.branch }}
           scope: ${{ matrix.scope }}
           version: ${{ steps.time.outputs.time }}
+          iso-profiles-repo: ${{ matrix.iso }}
           kernel: linux515
           code-name: "Custom-Build"
           release-tag: ${{ needs.prepare-release.outputs.release_tag }}

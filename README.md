@@ -3,10 +3,10 @@ Manjaro Builder.
 
 # WARNING: Damage to Computer eminent
 
-This repository is bound to cause trouble for your computure
+This repository is bound to cause trouble for your computer
 whatever way this code is used.
 
-You have been warned, no go ahead with axing your feet!!
+***You have been warned !!***
 
 ## Tutorial Video
 
