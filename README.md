@@ -23,6 +23,7 @@ https://gitlab.manjaro.org/-/snippets/630
 https://github.com/manjaro/manjaro-iso-action
 
 *Option* for the new `manjaro-iso-action`:
+
 https://github.com/manjaro/manjaro-iso-action/blob/main/action.yml
 
 And its related Issues:
