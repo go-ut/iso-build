@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=S2t5Iat37CI
 https://gitlab.manjaro.org/-/snippets/630
 
 **Update** Github Actions Script With Special `manjaro-iso-action`:
+
 https://github.com/manjaro/manjaro-iso-action
 
 *Option* for the new `manjaro-iso-action`:
