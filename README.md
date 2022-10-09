@@ -36,3 +36,7 @@ https://gitlab.manjaro.org/profiles-and-settings/iso-profiles
 
 This is the default in `manjaro-iso-action`.
 
+Custom Profile:
+
+https://github.com/go-ut/iso-profiles
+
