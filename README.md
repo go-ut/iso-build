@@ -27,6 +27,7 @@ https://github.com/manjaro/manjaro-iso-action
 https://github.com/manjaro/manjaro-iso-action/blob/main/action.yml
 
 And its related Issues:
+
 https://github.com/manjaro/manjaro-iso-action/issues
 
 ## Manjaro Package Repository
